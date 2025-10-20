@@ -49,7 +49,7 @@ It analyzes the textual content of an email and predicts whether it is **Spam** 
 - If the email is not spam → ✅ “This email is NOT spam.”
 - The result is displayed instantly on the app interface.
 
-### .📊 6. Model Training (Notebook)
+### 📊 6. Model Training (Notebook)
 
 - Model training is performed in the Spam_Email_Classifier.ipynb notebook using the following steps:
 - Load dataset (spam_ham_dataset.csv).
